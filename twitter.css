@@ -1,0 +1,164 @@
+body{
+    font-family: arial;
+    height: 768px;
+    width: 1366px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.step{
+    width: 683px;
+    border: solid 2px;
+    height: 715px;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background-color: blue;
+}
+
+#step{
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    width: 450px;
+    margin: 0px;
+    padding: 0px;
+}
+#background{
+    width: 1690px;
+    height: 1084px;
+    border: 2px solid red;
+    position: absolute;
+}
+
+
+#explore{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 200px;
+}
+
+.explore{
+    position: absolute;
+    top: 180px;
+    left: 50px;
+    line-height: 0px;
+}
+
+p{
+    font-size: 12px;
+}
+
+h4{
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+#bookmark{
+    height: 80px;
+    width: 130px;
+    position: absolute;
+    top: 290px;
+}
+
+.bookmark{
+    position: absolute;
+    top: 280px;
+    left: 50px;
+    line-height: 0px;
+}
+
+#personalize{
+    height: 120px;
+    width: 130px;
+    position: absolute;
+    top: 380px;
+}
+
+.personalize{
+    position: absolute;
+    top: 370px;
+    left: 50px;
+    line-height: 0px;
+}
+
+.happen{
+    position: absolute;
+    left: 840px;
+    width: 400px;
+    top: 220px;
+}
+
+.happen h4{
+    position: absolute;
+    top: 150px;
+}
+
+.happen h2{
+    color: black;
+    width: 300px;
+}
+
+#happen{
+    position: absolute;
+    top: 70px;
+}
+
+#logo{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    left: -15px;
+    top: 0px;
+
+}
+
+h5#login{
+    position: absolute;
+    left: 22em;
+    top: 0px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    height: 30px;
+    width: 50px;
+    text-align: center;
+    padding: 10px 0px 0px 0px;
+    color: blue;
+}
+
+h4.sign{
+    position: absolute;
+    top: 14em;
+    background-color: blue;
+    width: 280px;
+    height:30px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+h4.login{
+    position: absolute;
+    top: 18em;
+    background-color: white;
+    width: 280px;
+    height:27px;
+    border-radius: 20px;
+    color: blue;
+    text-align: center;
+    padding-top: 8px;
+    border: solid 2px blue;
+}
+
+footer ul li{
+    Display: inline;
+    padding: 0px 5px 0px 5px;
+    font-size: 13px;
+    color: grey;
+    }
+
+footer ul{
+    text-align: center;
+}
